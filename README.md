@@ -13,9 +13,9 @@ re-doing the prompt using Bayesian glms in brms instead!
 
 You can choose from any of the following questions to
 "redo":
-Homework 3, Question 2: Responses of insectivorous bats to urbanization
-Homework 4, Question 1: Impacts of mistletoe infection in Spanish forests
-Homework 4, Question 2: Fire effects following forest thinning
+- Homework 3, Question 2: Responses of insectivorous bats to urbanization
+- Homework 4, Question 1: Impacts of mistletoe infection in Spanish forests
+- Homework 4, Question 2: Fire effects following forest thinning
 
 
 Choose ONE question to 'redo' and convert your past analysis 
