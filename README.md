@@ -1,6 +1,8 @@
 Homework \#5: Bayesian GLMMs with brms
 ================
 
+<img src="bayes.jpg" width="400px" />
+
 In this homework, we will be returning to some 
 familiar datasets for an assignment that has a slightly 
 different structure than our past ones! The goal of this
